@@ -20,3 +20,13 @@ else:
 
 hey this new python code
 added new version 2 code
+
+
+num = float(input("Enter a number: "))
+if num > 0:
+   print("Positive number")
+elif num == 0:
+   print("Zero")
+else:
+   print("Negative number")
+
