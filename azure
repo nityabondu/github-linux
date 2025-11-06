@@ -18,3 +18,5 @@ if num >= 0:
 else:
    print("Negative number")
 
+hey this new python code
+added new version 2 code
